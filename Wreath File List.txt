@@ -1,0 +1,13 @@
+﻿Repository Notes:
+
+1. Wreath_FastLED_REV_A_Final.ino
+This is the Arduino sketch for the wreath.
+
+2. Wreath1.AD_DRW
+This is the Geomagic drafting file for the wreath base plate to be laser cut
+
+3. Wreath_1.AD_PRT
+This is the 3D model of the wreath base plate
+
+4. Wreath_1.cdr
+This is a CorelDraw file for the wreath base that is good to use on a laser cutter
