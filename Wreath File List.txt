@@ -11,3 +11,8 @@ This is the 3D model of the wreath base plate
 
 4. Wreath_1.cdr
 This is a CorelDraw file for the wreath base that is good to use on a laser cutter
+
+5. Wreath Hardware Instructions REV 01.pdf and .docx
+This is a guide that shows how to wire the wreath and how to install the LED's
+
+6. There is an Amazon List that has links to all of the materials for the wreath except for the 1/4" plywood and any paints or other decorations you might want to add.  The Amazon list can be found here: http://a.co/64Apa6u
